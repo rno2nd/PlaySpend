@@ -1,0 +1,6 @@
+{
+  "name": "PlaySpend",
+  "description": "View, categorize, sort, and analyze all of your Google Play Store purchases, subscriptions, and spending history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
